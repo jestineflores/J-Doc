@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.input{
+  align-content: center;
+  width: 75vw;
+  height: 50vw;
+}
+
+.Bold {
+  /* background-color:red; */
+  /* color:white; */
+  font-size:44px;
+  font-weight: bold;
+}
